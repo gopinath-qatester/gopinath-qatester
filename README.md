@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Gopinath H 👋
 
-<!--
-**gopinath-qatester/gopinath-qatester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack QA Automation Engineer** | Web • API • DB • CI/CD • BDD
 
-Here are some ideas to get you started:
+I'm a QA Automation Engineer with 6+ years of experience across Banking and E-Commerce, working across UI, API, and database layers — not just the front end.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Core Skills
+- **Automation:** Selenium WebDriver, TestNG, Cucumber BDD, Playwright (building depth)
+- **API Testing:** REST Assured, Postman
+- **Database:** SQL — joins, queries, backend data validation
+- **CI/CD & VCS:** Jenkins, GitHub Actions, Git, Maven
+- **Framework Design:** Page Object Model, hybrid frameworks, data-driven testing
+
+## 🚀 Currently
+Actively deepening my hands-on experience with **Playwright**, **REST Assured**, and **CI/CD pipelines** — building and pushing practice projects here as I go.
+
+## 📫 Reach me
+- LinkedIn: [linkedin.com/in/gopinath-h-4a4b883a9](https://linkedin.com/in/gopinath-h-4a4b883a9)
+- Email: gopinath.qatester@gmail.com
+
+---
+📌 *Check my pinned repos below for hands-on framework and project examples.*
